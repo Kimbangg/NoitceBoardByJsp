@@ -1,5 +1,5 @@
 # NoticeBoardByJsp
-> he project implemented basic Web components through JSP, such as logging in, signing in, uploading, modifying, and deleting postings on the bulletin board.
+> This project implemented basic Web components through JSP, such as logging in, signing in, uploading, modifying, and deleting postings on the bulletin board.
 
 
 ## Features
